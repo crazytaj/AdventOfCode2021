@@ -32,6 +32,7 @@ public class one2 {
           prevNum = a+b+c;
           System.out.println(a+b+c+" "+count);
         }
+        count += 1;
         System.out.println(count);
         kB.close();
       } catch (FileNotFoundException e) {
