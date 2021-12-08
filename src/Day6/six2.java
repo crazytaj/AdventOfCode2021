@@ -1,7 +1,6 @@
 package Day6;
 import java.util.*;
 import java.io.*;
-import java.util.stream.Collectors;
 
 public class six2 {
     public static void main(String args[]) {
